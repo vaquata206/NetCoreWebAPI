@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\vaqua\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\vaqua\\.nuget\\packages",
+      "C:\\Users\\Vaquata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vaquata\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

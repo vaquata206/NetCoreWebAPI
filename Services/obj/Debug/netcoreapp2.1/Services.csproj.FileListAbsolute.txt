@@ -10,3 +10,15 @@ E:\WORK\vnpt\Examples\Services\bin\Debug\netcoreapp2.1\Repositories.pdb
 E:\WORK\vnpt\Examples\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
 E:\WORK\vnpt\Examples\Services\obj\Debug\netcoreapp2.1\Services.dll
 E:\WORK\vnpt\Examples\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\Works\C#\Examples\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\Works\C#\Examples\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\Works\C#\Examples\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\Works\C#\Examples\Services\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Works\C#\Examples\Services\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Works\C#\Examples\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\Works\C#\Examples\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\Works\C#\Examples\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\Works\C#\Examples\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\Works\C#\Examples\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\Works\C#\Examples\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\Works\C#\Examples\Services\obj\Debug\netcoreapp2.1\Services.pdb

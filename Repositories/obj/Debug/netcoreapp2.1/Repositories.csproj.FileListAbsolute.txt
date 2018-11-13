@@ -7,3 +7,12 @@ E:\WORK\vnpt\Examples\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
 E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
 E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
 E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Works\C#\Examples\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Works\C#\Examples\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Works\C#\Examples\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Works\C#\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Works\C#\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Works\C#\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Works\C#\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Works\C#\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Works\C#\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb

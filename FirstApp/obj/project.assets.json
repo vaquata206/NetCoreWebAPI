@@ -7633,11 +7633,10 @@
       ]
     },
     "Newtonsoft.Json/11.0.2": {
-      "sha512": "znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
+      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
       "type": "package",
       "path": "newtonsoft.json/11.0.2",
       "files": [
-        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -12438,23 +12437,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vaqua\\.nuget\\packages\\": {},
+    "C:\\Users\\Vaquata\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WORK\\vnpt\\Examples\\FirstApp\\FirstApp.csproj",
+      "projectUniqueName": "D:\\Works\\C#\\Examples\\FirstApp\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "E:\\WORK\\vnpt\\Examples\\FirstApp\\FirstApp.csproj",
-      "packagesPath": "C:\\Users\\vaqua\\.nuget\\packages\\",
-      "outputPath": "E:\\WORK\\vnpt\\Examples\\FirstApp\\obj\\",
+      "projectPath": "D:\\Works\\C#\\Examples\\FirstApp\\FirstApp.csproj",
+      "packagesPath": "C:\\Users\\Vaquata\\.nuget\\packages\\",
+      "outputPath": "D:\\Works\\C#\\Examples\\FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vaqua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vaquata\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12467,11 +12466,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\WORK\\vnpt\\Examples\\Repositories\\Repositories.csproj": {
-              "projectPath": "E:\\WORK\\vnpt\\Examples\\Repositories\\Repositories.csproj"
+            "D:\\Works\\C#\\Examples\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\Works\\C#\\Examples\\Repositories\\Repositories.csproj"
             },
-            "E:\\WORK\\vnpt\\Examples\\Services\\Services.csproj": {
-              "projectPath": "E:\\WORK\\vnpt\\Examples\\Services\\Services.csproj"
+            "D:\\Works\\C#\\Examples\\Services\\Services.csproj": {
+              "projectPath": "D:\\Works\\C#\\Examples\\Services\\Services.csproj"
             }
           }
         }

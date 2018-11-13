@@ -3110,23 +3110,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vaqua\\.nuget\\packages\\": {},
+    "C:\\Users\\Vaquata\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WORK\\vnpt\\Examples\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\Works\\C#\\Examples\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "E:\\WORK\\vnpt\\Examples\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\vaqua\\.nuget\\packages\\",
-      "outputPath": "E:\\WORK\\vnpt\\Examples\\Repositories\\obj\\",
+      "projectPath": "D:\\Works\\C#\\Examples\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\Vaquata\\.nuget\\packages\\",
+      "outputPath": "D:\\Works\\C#\\Examples\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vaqua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vaquata\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
