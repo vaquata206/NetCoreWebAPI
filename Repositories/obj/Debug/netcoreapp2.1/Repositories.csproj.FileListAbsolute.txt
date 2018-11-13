@@ -1,0 +1,9 @@
+E:\WORK\vnpt\Examples\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+E:\WORK\vnpt\Examples\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+E:\WORK\vnpt\Examples\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+E:\WORK\vnpt\Examples\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
